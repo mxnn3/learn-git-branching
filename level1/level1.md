@@ -8,5 +8,5 @@
 # 1.3 (คำสั่งที่ใช้ git commit git branch git switch git merge)
 ![alt text](1.3.png)
 
-# 1.4 (คำสั่งที่ใช้ git)
+# 1.4 (คำสั่งที่ใช้ git commit git branch git switch git rebase)
 ![alt text](1.4.png)
